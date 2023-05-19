@@ -13,7 +13,7 @@ now has, I am tending to use the token `arubaos` to be clearer, hence the naming
 repository.  If this fork does materially diverge, I may well change the token as used
 in the rancid configs too, but it remains `aruba` as noted below for now.
 
-The original notes (more or less):
+miken32's original notes (more or less):
 
 This was tested by me on a limited number of legacy Aruba devices (6000 and 7210 wireless mobility access controllers running ArubaOS 6.3 and 6.4; and S1500 and S2500 switches running ArubaOS 7.1 and 7.2) but has since been used successfully on devices running 8.x software.
 
