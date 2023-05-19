@@ -15,7 +15,9 @@ in the rancid configs too, but it remains `aruba` as noted below for now.
 
 The original notes (more or less):
 
-This is a proof of concept, tested on a limited number of legacy Aruba devices (namely 6000 and 7210 wireless controllers running ArubaOS 6.3 and 6.4; and S1500 and S2500 switches running ArubaOS 7.1 and 7.2.) Modern Aruba-branded switches are derived from HPE's ProVision switch line, and should be considered HP switches for the purposes of RANCID.
+This was tested by me on a limited number of legacy Aruba devices (6000 and 7210 wireless mobility access controllers running ArubaOS 6.3 and 6.4; and S1500 and S2500 switches running ArubaOS 7.1 and 7.2) but has since been used successfully on devices running 8.x software.
+
+Note that **modern Aruba-branded switches are derived from HPE's ProVision switch line, and should be considered HP switches for the purposes of RANCID**.
 
 Install `aruba.pm` into your Perl module directory - in my Scientific Linux install it's at `/usr/share/perl5/vendor_perl/rancid/`.
 
