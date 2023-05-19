@@ -12,4 +12,5 @@ test/
 
 # misc
 *.baseline
+*.orig
 
